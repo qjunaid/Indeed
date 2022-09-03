@@ -7,6 +7,7 @@ import ReactDOM from 'react-dom';
 <h2>Reactjs</h2>
 <b>JavaScript</b>
 <i>HTML</i>
+<B>CSS</B>
 document.getElementById('root')
  );
 
