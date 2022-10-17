@@ -12,7 +12,7 @@ Registration<br><br><br>
  <input type="radio" name="radio1"> Personal
 <input type="radio" name="radio1">Company
  <form>
-<img src="e.png" width="25" height="25">
+<img src="e.png" width="30" height="30">
 <input type="text" name="txt1" placeholder="Email">  <br><br>
 <img src="n.png" width="25" height="25">
 <input type="text" name="txt2" placeholder="Name">  <br><br>
