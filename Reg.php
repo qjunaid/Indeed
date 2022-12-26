@@ -15,7 +15,7 @@ Registration<br><br><br>
 <img src="e.png" width="30" height="30">
 <input type="text" name="txt1" placeholder="Email">  <br><br>
 <img src="n.png" width="25" height="25">
-<input type="text" name="txt2" placeholder="Name">  <br><br>
+<input type="text" name="txt2" placeholder="Name">  <br><br><br>
 <img src="p.png" width="25" height="25">
 <input type="text" name="txt3" placeholder="Password"> <br><br>
 <input type="radio" name="radio3">Male 
